@@ -1,0 +1,5 @@
+channel,messages_checked,copies_made_by_others_of_my_posts (out-strength),copies_I_made_of_others_posts (in-strength),net_flow (out minus in),pagerank
+Jair,5573,686,39,647,0.397
+Eduardo,3143,34,12,22,0.07
+Michelle,159,2,3,-1,0.057
+Flávio,9275,43,711,-668,0.476

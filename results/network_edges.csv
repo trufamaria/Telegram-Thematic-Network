@@ -1,0 +1,10 @@
+from_channel_posted_first,to_channel_copied,weight,median_lag_hours
+Jair,Flávio,676,1.58
+Flávio,Jair,38,14.87
+Eduardo,Flávio,33,0.96
+Jair,Eduardo,9,0.47
+Flávio,Eduardo,3,27.49
+Michelle,Flávio,2,23.55
+Flávio,Michelle,2,356.8
+Eduardo,Jair,1,14.55
+Jair,Michelle,1,1.06

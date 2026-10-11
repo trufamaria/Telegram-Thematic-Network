@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-10-11">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="1" title="median_lag_hours" type="double" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="messages" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Eduardo" label="Eduardo">
+        <attvalues>
+          <attvalue for="0" value="3143" />
+        </attvalues>
+      </node>
+      <node id="Flávio" label="Flávio">
+        <attvalues>
+          <attvalue for="0" value="9275" />
+        </attvalues>
+      </node>
+      <node id="Jair" label="Jair">
+        <attvalues>
+          <attvalue for="0" value="5573" />
+        </attvalues>
+      </node>
+      <node id="Michelle" label="Michelle">
+        <attvalues>
+          <attvalue for="0" value="159" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Eduardo" target="Flávio" id="0" weight="33">
+        <attvalues>
+          <attvalue for="1" value="0.96" />
+        </attvalues>
+      </edge>
+      <edge source="Eduardo" target="Jair" id="1" weight="1">
+        <attvalues>
+          <attvalue for="1" value="14.55" />
+        </attvalues>
+      </edge>
+      <edge source="Flávio" target="Eduardo" id="2" weight="3">
+        <attvalues>
+          <attvalue for="1" value="27.49" />
+        </attvalues>
+      </edge>
+      <edge source="Flávio" target="Jair" id="3" weight="38">
+        <attvalues>
+          <attvalue for="1" value="14.87" />
+        </attvalues>
+      </edge>
+      <edge source="Flávio" target="Michelle" id="4" weight="2">
+        <attvalues>
+          <attvalue for="1" value="356.8" />
+        </attvalues>
+      </edge>
+      <edge source="Jair" target="Eduardo" id="5" weight="9">
+        <attvalues>
+          <attvalue for="1" value="0.47" />
+        </attvalues>
+      </edge>
+      <edge source="Jair" target="Flávio" id="6" weight="676">
+        <attvalues>
+          <attvalue for="1" value="1.58" />
+        </attvalues>
+      </edge>
+      <edge source="Jair" target="Michelle" id="7" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1.06" />
+        </attvalues>
+      </edge>
+      <edge source="Michelle" target="Flávio" id="8" weight="2">
+        <attvalues>
+          <attvalue for="1" value="23.55" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
